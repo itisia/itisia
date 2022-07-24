@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello there 👋 i am __Anurag__
+
+
+<!--
 ![Spell](https://itisia.github.io/assets/spell_1.webp)
 
 ![Spell2](https://itisia.github.io/assets/spell_2.gif)
-
-<!--
 **itisia/itisia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
