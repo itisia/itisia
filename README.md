@@ -1,7 +1,7 @@
 <!-- banner -->
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./banner.svg" width="100%"></img></a>
-
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./banner.svg" width="100%"></img></a> -->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://itisia.github.io/assets/banner.gif" width="100%"></img></a>
 
 <br/>
 
