@@ -1,5 +1,5 @@
 <!-- banner -->
-best is dark mode
+
 <a href="https://anurag.epicbits.in"><img src="https://itisia.github.io/assets/banner.gif" width="100%"></img></a>
 
 
