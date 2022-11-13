@@ -7,6 +7,7 @@
 
 <!-- about me -->
 <p align="center">I'm a passionate developer from <b>INDIA</b> :india: i work hard to make my creations perfectly perfect, often i have to build things from scratch though it takes time but along the way it becomes marvelous 💎. I am always open to learn new stuff , some of my tools are :large_orange_diamond: </p>
+
 <!-- <img src="https://itisia.github.io/assets/img/self_taught.gif" width="100%"></img> -->
 
 <br/>
@@ -23,6 +24,10 @@
 </p>
 
 
+<p align="center">
+<!--react-->
+  <a href="https://reactjs.org/docs/getting-started.html"><img height="70" width="70" src="https://itisia.github.io/assets/img/react_logo.png"/></a>
+</p>
 
 <!--
 ![Spell](https://itisia.github.io/assets/spell_1.webp)
