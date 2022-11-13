@@ -1,6 +1,6 @@
 <!-- banner -->
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./banner"></img></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./banner.svg"></img></a>
 
 
 <br/>
