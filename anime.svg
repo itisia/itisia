@@ -1,0 +1,15 @@
+<svg width="403" height="287" viewBox="0 0 403 287" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+    <style>
+        .circle{
+            animation: ani .3s ease-in-out alternate infinite;
+        }
+        @keyframes ani{
+            50%{
+                transform: translateY(40px);
+            }
+        }
+    </style>
+    </defs>
+    <circle class="circle" cx="235.5" cy="122.5" r="33.5" fill="#FF0000" />
+</svg>

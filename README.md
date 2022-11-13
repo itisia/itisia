@@ -48,6 +48,8 @@
   <a href="https://www.debian.org/"><img height="50" width="50" src="https://itisia.github.io/assets/img/debian_logo.png"/></a>
 </p>
 
+<img src="anime.svg"/>
+
 <!--
 ![Spell](https://itisia.github.io/assets/spell_1.webp)
 
