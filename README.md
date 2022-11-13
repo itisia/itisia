@@ -28,6 +28,7 @@
 <!--react-->
   <a href="https://reactjs.org/docs/getting-started.html"><img height="50" width="50" src="https://itisia.github.io/assets/img/react_logo.png"/></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img height="50" width="50" src="https://itisia.github.io/assets/img/nodejs_logo.png"/></a>
+  <a href="https://reactjs.org/docs/getting-started.html"><img height="50" width="50" src="https://itisia.github.io/assets/img/firebase_logo.png"/></a>
 </p>
 
 <!--
