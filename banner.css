@@ -1,0 +1,32 @@
+.sec_name{
+    stroke:red
+}
+.lined_square{
+    transform-origin: center;
+    animation:levitate 1s ease-in-out infinite alternate,tilt 2s linear infinite;
+}
+@keyframes levitate{
+    0%{
+        transform:translateY(0px);
+    }
+    100%{
+        transform:translateY(20px);
+    }
+}
+@keyframes tilt{
+    0%{
+        transform:rotateZ(0deg);
+    }
+    25%{
+        transform:rotateZ(2deg)
+    }
+    50%{
+        transform:rotateZ(0deg);
+    }
+    75%{
+        transform:rotateZ(-2deg);
+    }
+    100%{
+        transform:rotateZ(0deg);
+    }
+}
