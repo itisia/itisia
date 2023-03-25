@@ -3,7 +3,7 @@
 
   </style>
   <script>
-  window.alert("hola")
+  console.log("hola")
   </script>
   <text x="20" y="35" class="small">My</text>
   <text x="40" y="35" class="heavy">cat</text>
