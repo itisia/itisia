@@ -1,12 +1,32 @@
 <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
   <style>
-
+  svg{
+    
+    transform-style: preserve-3d;
+    perspective: 1000px;
+  }
+  .a{
+    animation:ani 5s forwards ease-in-out infinite;
+    
+    
+    transform-origin:50% 50%;
+  }
+  @keyframes ani{
+    0%{
+        transform:rotateY(0deg) rotateX(0deg);
+    }
+    100%{
+        transform:rotateY(360deg) rotateX(360deg);
+    }
+  }
   </style>
   <script>
-  console.log("hola")
+    console.log(document.getElementById("aaaa"))
   </script>
+   <rect class="a" width="100" height="100" fill="rgba(245,24,124)" />
+
   <text x="20" y="35" class="small">My</text>
   <text x="40" y="35" class="heavy">cat</text>
   <text x="55" y="55" class="small">is</text>
-  <text x="65" y="55" class="Rrrrr">Grumpy!</text>
+  <text x="65" y="55" id="aaaa">Grumpy!</text>
 </svg>
