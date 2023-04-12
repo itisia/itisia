@@ -17,7 +17,9 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="70" width="70" src="https://itisia.github.io/assets/img/react_logo.png"/></a>
   <a href="https://docs.python.org/"><img height="70" width="70"  src="https://itisia.github.io/assets/img/react_logo.png"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="70" width="70"  src="https://itisia.github.io/assets/img/react_logo.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+![REACT](./assets/img/react_logo.png)
+  </a>
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/"><img height="70" width="70"  src="https://itisia.github.io/assets/img/react_logo.png"/></a>
   <a href="https://learn.microsoft.com/en-us/cpp/c-language"><img height="70" width="70"  src="https://itisia.github.io/assets/img/react_logo.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="70" width="70"  src="https://itisia.github.io/assets/img/react_logo.png"/></a>
